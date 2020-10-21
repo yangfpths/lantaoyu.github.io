@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yang Fei"
 title_separator          : "-"
 name                     : &name "Yang Fei"
-description              : &description "Master student, computing department, university of melbourne"
+description              : &description "Master student, School of Computing and Information Systems, University of Melbourne"
 url                      : https://yangfpths.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangfpths/yangfpths.github.io"
@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Yang Fei"
-  avatar           : "lantaoyu.jpg"
-  bio              : "master student, computing department, university of melbourne"
+  avatar           : 
+  bio              : "master student, School of Computing and Information Systems, University of Melbourne"
   location         : "JiangSu,China"
   employer         : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : "yang.fei.uol@gmail.com"
   uri              : 
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
