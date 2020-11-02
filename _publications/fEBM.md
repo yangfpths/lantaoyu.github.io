@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "title of the paper"
 collection: publications
 permalink: /publications/fEBM
@@ -11,4 +11,4 @@ citation: '<b>name a</b>, name b.
 
 
 ## Abstract
-abstract
+abstract -->
