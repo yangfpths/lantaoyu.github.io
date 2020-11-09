@@ -5,5 +5,5 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: yang.fei.uol@gmail.com
+Email: yang.fei.uol [at] gmail.com
 
